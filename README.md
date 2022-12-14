@@ -3,6 +3,7 @@
 
 ## Deepin-screenshot
 > sudo apt-get install -y deepin-screenshot
+> 
 > run deepin-screenshot
 
 ## Configurar Atalhos
